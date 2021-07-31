@@ -1,0 +1,5 @@
+welcome:	
+	layout: markdown
+	title: 欢迎欢迎
+	content:
+	- '欢迎光临KEY小站，这是公告栏。 '
